@@ -14,21 +14,13 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/nafal2002"><img title="Author" src="https://img.shields.io/badge/author-nafal%20mumtaz%20fuadi-brightgreen"></a>
+<a href="https://github.com/Modesta122"><img title="Author" src="https://img.shields.io/badge/author-modesta%20liunesi%20desta-brightgreen"></a>
 <p align="center">
 
 <p>
 CodeIgniter adalah sebuah framework PHP yang digunakan untuk membangun aplikasi web. Framework ini dikembangkan dengan tujuan untuk memudahkan proses pengembangan aplikasi web dengan menggunakan PHP. CodeIgniter memiliki banyak fitur yang memudahkan pengembang dalam membangun aplikasi web seperti sistem routing, pembuatan kueri database, dan juga pembuatan tampilan menggunakan template.</p>
 
 # Daftar Isi
-
-| **Daftar isi**                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [Langkah-langkah & Persiapan](https://github.com/kyuurazz/Lab7Web#langkah-langkah--persiapan)                            |
-| [Instalasi](https://github.com/kyuurazz/Lab7Web#instalasi-codeigniter-4-ci)                                              |
-| [Routing & Controller](https://github.com/kyuurazz/Lab7Web#routing--controller)                 |
-| [Membuat Layout Web dengan CSS](https://github.com/kyuurazz/Lab7Web#membuat-layout-web-dengan-css) |
-| [Pertanyaan & Tugas](https://github.com/kyuurazz/Lab7Web#pertanyaan-dan-tugas) |
 
 # Langkah-langkah & Persiapan
 <p>Sebelum memulai menggunakan Framework Codeigniter, perlu dilakukan konfigurasi pada webserver.
